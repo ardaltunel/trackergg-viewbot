@@ -2,6 +2,6 @@
 
 # Tool settings
 # USE API LINKS TO AVOID BEING CACHED BY CLOUDFLARE!
-link_to_boost: "https://api.tracker.gg/api/v2/valorant/standard/profile/riot/saint%23444x?source=web"
+link_to_boost: "https://api.tracker.gg/api/v2/valorant/standard/profile/riot/Phantaso%23PHAN?source=web"
 proxies_file: "src/input/proxies.txt"
 threads: 10
